@@ -19,3 +19,5 @@
 ✅ Testes de mesa
 
 ✅ Depuração de programas
+
+##### Concluído em 25/01/2023 por Barbara Caroline Antunes da Silva
